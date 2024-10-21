@@ -12,7 +12,7 @@ int main()
     cout << "Hello World!\n";
     cout << "Hello World!\n";
     
-   fuufufhhfhff
+   классно 
 
     return 0;
 }
